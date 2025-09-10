@@ -8,7 +8,7 @@ This project focuses on analyzing HR employee data to monitor attrition, retenti
 <img width="1919" height="1079" alt="Screenshot 2025-09-10 113802" src="https://github.com/user-attachments/assets/5eec6393-3471-42fe-bb6a-2eee0513aed1" />
 <img width="1919" height="1078" alt="Screenshot 2025-09-10 113815" src="https://github.com/user-attachments/assets/9d02ca63-eacb-4a97-af74-1fa5f83f612c" />
 
-What We Did on this project:
+What I did on this project:
 
 **Data Cleaning & Preparation**
 
